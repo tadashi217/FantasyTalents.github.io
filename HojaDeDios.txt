@@ -28,12 +28,7 @@ URL Ranks by DiscoPeligro.
     	"ALVAR0ZZZZZZZZZ"
 	],
   "Photographer": [
-	"Roxytooty",
-    	"Daniel.n.v",
-    	"Rubeko",
-    	"AndrewSant",
-	"Cartlos5137",
-    	"٠Lady Berry٠"
+    	"vacio"
   	],
   "Host": [
 	"Amurysse",
@@ -42,6 +37,23 @@ URL Ranks by DiscoPeligro.
     	"Prototipo0121",
     	"RocketSaul"
 	], 
+"Barman": [
+	"Cartlos5137",
+    	"٠Lady Berry٠",
+	"vacio",
+	"vacio",
+	"vacio",
+	"vacio"
+],
+"Artista": [
+"Roxytooty",
+"Daniel.n.v",
+"Rubeko",
+"AndrewSant",
+"vacio",
+"vacio",
+"vacio"
+]
   "StaffInvitado": ["ESPACIOVACIO"],
   "StaffMenor": ["ESPACIOVACIO"],
 	"VIP": ["ESPACIOVACIO"]
