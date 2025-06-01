@@ -5,15 +5,11 @@ URL Ranks by DiscoPeligro.
         "RensellaVT",
         "Tadashi_24"
 	],
-"StaffMayor": ["Strikkеrz",
-        "NordicWDS",
-        "WolfDaver",
-        "Noble-kun",
-	"ShyLio°",
-        "Angela_Renamon"],
+"StaffMayor": ["vacio"],
 "StaffSecurity": [
-    "Fulano",
-    "Fulano2"
+    "vacio",
+    "vacio",
+    "vacio"
     ],
   "Dancer": [
 	"ikerreki231",
