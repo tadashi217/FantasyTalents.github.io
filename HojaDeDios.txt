@@ -1,17 +1,20 @@
 URL Ranks by DiscoPeligro.
 {
-"Admin": ["DakYng",
+"Admin": [
         "Dios Carmesi",
         "RensellaVT",
-        "Chaos Spectrum",
-        "Tadashi_24",
-        "Lilyytuwu"],
+        "Tadashi_24"
+	],
 "StaffMayor": ["Strikkеrz",
         "NordicWDS",
         "WolfDaver",
         "Noble-kun",
 	"ShyLio°",
         "Angela_Renamon"],
+"StaffSecurity": [
+    "Fulano",
+    "Fulano2"
+    ],
   "Dancer": [
 	"ikerreki231",
     	"нσѕнι",
