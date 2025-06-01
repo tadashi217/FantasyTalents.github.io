@@ -53,7 +53,7 @@ URL Ranks by DiscoPeligro.
 "vacio",
 "vacio",
 "vacio"
-]
+],
   "StaffInvitado": ["ESPACIOVACIO"],
   "StaffMenor": ["ESPACIOVACIO"],
 	"VIP": ["ESPACIOVACIO"]
