@@ -25,7 +25,8 @@ URL Ranks by DiscoPeligro.
 	"RAFAOwO",
     	"Jamirdg",
     	"Gamer7777702026",
-    	"ALVAR0ZZZZZZZZZ"
+    	"ALVAR0ZZZZZZZZZ",
+	"ZEDAnime"
 	],
   "Photographer": [
     	"vacio"
