@@ -36,7 +36,8 @@ URL Ranks by DiscoPeligro.
     	"ʚCLASSISTɞ",
     	"julioskrats",
     	"Prototipo0121",
-    	"RocketSaul"
+    	"RocketSaul",
+	"Gaaratan"
 	], 
 "Barman": [
 	"Cartlos5137",
