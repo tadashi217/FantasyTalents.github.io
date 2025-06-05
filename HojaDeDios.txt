@@ -6,7 +6,7 @@ URL Ranks by DiscoPeligro.
 	],
 "StaffMayor": ["vacio"],
 "StaffSecurity": [
-    "vacio",
+    "ҜatherineThiler",
     "vacio",
     "vacio"
     ],
