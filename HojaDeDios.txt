@@ -18,7 +18,8 @@ URL Ranks by DiscoPeligro.
    	"TheWolfKenji",
     	"sammyvase",
     	"ღEquiღ",
-    	"XairiPR"
+    	"XairiPR",
+	"OsitoPauPau"
 	],
 	"DJ": [
 	"RAFAOwO",
