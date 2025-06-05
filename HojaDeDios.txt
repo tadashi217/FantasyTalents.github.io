@@ -1,7 +1,6 @@
 URL Ranks by DiscoPeligro.
 {
 "Admin": [
-        "Dios Carmesi",
         "RensellaVT",
         "Tadashi_24"
 	],
