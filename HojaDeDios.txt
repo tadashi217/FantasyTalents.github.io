@@ -19,7 +19,8 @@ URL Ranks by DiscoPeligro.
     	"sammyvase",
     	"ღEquiღ",
     	"XairiPR",
-	"OsitoPauPau"
+	"OsitoPauPau",
+	"RED_XONA"
 	],
 	"DJ": [
 	"RAFAOwO",
