@@ -41,7 +41,8 @@ URL Ranks by DiscoPeligro.
     	"Prototipo0121",
     	"RocketSaul",
 	"Gaaratan",
-	"XionyxS"
+	"XionyxS",
+	"MurakamiJin"
 	], 
 "Barman": [
 	"Cartlos5137",
