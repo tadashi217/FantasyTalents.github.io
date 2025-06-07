@@ -8,7 +8,8 @@ URL Ranks by DiscoPeligro.
 "StaffSecurity": [
     "ҜatherineThiler",
     "D4rkfox",
-    "vacio"
+    "vacio",
+     "Yísus"
     ],
   "Dancer": [
 	"ikerreki231",
