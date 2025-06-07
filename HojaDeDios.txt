@@ -22,7 +22,9 @@ URL Ranks by DiscoPeligro.
     	"XairiPR",
 	"OsitoPauPau",
 	"RED_XONA",
-	"Мариша ¿?"
+	"Мариша ¿?",
+	"Onlydevil"
+	
 	],
 	"DJ": [
 	"RAFAOwO",
