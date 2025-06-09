@@ -23,7 +23,8 @@ URL Ranks by DiscoPeligro.
 	"OsitoPauPau",
 	"RED_XONA",
 	"Мариша ¿?",
-	"Onlydevil"
+	"Onlydevil",
+	"_LilithVr_"
 	
 	],
 	"DJ": [
