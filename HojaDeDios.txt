@@ -40,7 +40,7 @@ URL Ranks by DiscoPeligro.
     	"vacio"
   	],
   "Host": [
-	"Amurysse",
+	"vafg",
     	"ʚCLASSISTɞ",
     	"julioskrats",
     	"Prototipo0121",
