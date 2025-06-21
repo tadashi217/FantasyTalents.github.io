@@ -25,7 +25,8 @@ URL Ranks by DiscoPeligro.
 	"RED_XONA",
 	"Мариша ¿?",
 	"Onlydevil",
-	"_LilithVr_"
+	"_LilithVr_",
+	"ღToxicKittenღ"
 	
 	],
 	"DJ": [
@@ -69,5 +70,5 @@ URL Ranks by DiscoPeligro.
   "StaffMenor": ["ESPACIOVACIO"],
 	"VIP": [
 	"ᴇᴛᴀᴅɪʟᴀᴠ",
-	"ღToxicKittenღ"]
+	"tgfgggg"]
 }
