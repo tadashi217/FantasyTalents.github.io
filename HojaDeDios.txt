@@ -69,5 +69,5 @@ URL Ranks by DiscoPeligro.
   "StaffMenor": ["ESPACIOVACIO"],
 	"VIP": [
 	"ᴇᴛᴀᴅɪʟᴀᴠ",
-	"ESPACIOVACIO"]
+	"ღToxicKittenღ"]
 }
