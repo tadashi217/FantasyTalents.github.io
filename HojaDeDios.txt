@@ -47,7 +47,8 @@ URL Ranks by DiscoPeligro.
     	"RocketSaul",
 	"Gaaratan",
 	"XionyxS",
-	"MurakamiJin"
+	"MurakamiJin",
+	"Kira_Yoshikagę"
 	], 
 "Barman": [
 	"Cartlos5137",
