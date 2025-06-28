@@ -67,7 +67,9 @@ URL Ranks by DiscoPeligro.
 "vacio",
 "vacio"
 ],
-  "StaffInvitado": ["MADDSUN"],
+  "StaffInvitado": [
+	"MADDSUN",
+	"Alegnamon"],
   "StaffMenor": ["ESPACIOVACIO"],
 	"VIP": [
 	"ᴇᴛᴀᴅɪʟᴀᴠ",
