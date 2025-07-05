@@ -10,7 +10,8 @@ URL Ranks by DiscoPeligro.
     "D4rkfox",
     "vacio",
      "Yísus",
-"Jeffsito7u7VR"
+"Jeffsito7u7VR",
+"KakarottoYT1234"
     ],
   "Dancer": [
 	"ikerreki231",
