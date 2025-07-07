@@ -27,7 +27,10 @@ URL Ranks by DiscoPeligro.
 	"Мариша ¿?",
 	"Onlydevil",
 	"StephVr_",
-	"ღToxicKittenღ"
+	"ღToxicKittenღ",
+	"Faaka_vr",
+	"Mikama",
+	"Flaka_02"
 	
 	],
 	"DJ": [
