@@ -10,7 +10,7 @@ URL Ranks by DiscoPeligro.
     "D4rkfox",
     "RocketSaul",
      "Yísus",
-"Jeffsito7u7VR",
+"vacio",
 "KakarottoYT1234"
     ],
   "Dancer": [
@@ -21,7 +21,7 @@ URL Ranks by DiscoPeligro.
    	"TheWolfKenji",
     	"sammyvase",
     	"ღEquiღ",
-    	"vacio",
+    	"Jeffsito7u7VR",
 	"OsitoPauPau",
 	"RED_XONA",
 	"Мариша ¿?",
