@@ -1,39 +1,34 @@
 URL Ranks by DiscoPeligro.
 {
 "Admin": [
-        "RensellaVT",
-        "Tadashi_24"
+        "RensellaVT"
 	],
-"StaffMayor": ["vacio"],
+"StaffMayor": [
+	"Vacio"],
 "StaffSecurity": [
-    "ҜatherineThiler",
-    "D4rkfox",
-    "RocketSaul",
-     "Yísus",
-"vacio",
-"KakarottoYT1234"
+	"D4rkfox",
+	"Gonzalo_vr",
+	"Yísus",
+	"Jeffsito7u7VR"
     ],
-  "Dancer": [
+"Dancer": [
 	"ikerreki231",
     	"нσѕнι",
     	"Ezer_",
-    	"shoyo__3",
+    	"vacio",
    	"TheWolfKenji",
     	"sammyvase",
     	"ღEquiღ",
-    	"Jeffsito7u7VR",
+    	"XairiPR",
 	"OsitoPauPau",
 	"RED_XONA",
 	"Мариша ¿?",
 	"Onlydevil",
-	"vacio",
-	"ღToxicKittenღ",
-	"Faaka_vr",
-	"Mikama",
-	"Flaka_02"
-	
+	"StephVr_",
+	"StephVr_",
+	"ღToxicKittenღ"
 	],
-	"DJ": [
+"DJ": [
 	"RAFAOwO",
     	"Jamirdg",
     	"Gamer7777702026",
@@ -48,34 +43,42 @@ URL Ranks by DiscoPeligro.
     	"ʚCLASSISTɞ",
     	"julioskrats",
     	"Prototipo0121",
-    	"vacio",
+    	"RocketSaul",
 	"Gaaratan",
 	"XionyxS",
-	"MurakamiJin",
-	"Kira_Yoshikagę"
+	"Lᴀᴅʏ Rᴇᴅღ",
+	"MurakamiJin"
 	], 
 "Barman": [
 	"Cartlos5137",
-    	"٠Lady Berry٠",
-	"lalomomo123",
-	"Tardock Kamitsu",
+	"vacio",
+	"vacio",
 	"vacio",
 	"vacio"
 ],
 "Artista": [
-"Roxytooty",
-"Daniel.n.v",
-"Rubeko",
-"AndrewSant",
-"Blueminescent",
-"Vivii__",
-"vacio"
+	"Roxytooty",
+	"Daniel.n.v",
+	"Rubeko",
+	"AndrewSant",
+	"vacio",
+	"vacio",
+	"vacio"
 ],
   "StaffInvitado": [
-	"MADDSUN",
-	"Alegnamon"],
-  "StaffMenor": ["ESPACIOVACIO"],
+	"ESPACIOVACIO"
+],
+  "StaffMenor": [
+	"ESPACIOVACIO"
+	],
 	"VIP": [
 	"ᴇᴛᴀᴅɪʟᴀᴠ",
-	"GNH-"]
+	"tgfgggg"
+	]
 }
+
+
+
+
+
+
